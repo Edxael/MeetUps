@@ -1,13 +1,13 @@
-Promisify =
+Promisify = Presentation.....
 
 how to know what NPM packages to use:
 npm are loaded from number of packages.
 
 
 
-==============================================
-         Other Topics For Presentation
-==============================================
+===============================================
+          Other Topics For Presentation
+===============================================
 
 - GraphQL API
 - HTTP
@@ -24,8 +24,9 @@ npm are loaded from number of packages.
 
 
 
+
 ************************************************
-Integrating with
+                Integrating with
 ************************************************
 
 - Redis
@@ -38,4 +39,4 @@ Integrating with
 
 
 
-javascritp in Ilustrator....
+javascritp in Ilustrator........
