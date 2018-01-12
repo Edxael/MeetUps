@@ -1,0 +1,17 @@
+Promisify =
+
+how to know what NPM packages to use:
+npm are loaded from number of packages.
+
+
+
+==============================================
+                Other Topics
+==============================================
+
+sails.js
+lambda / serverlsess / Micro
+Happi
+Express
+KOA
+CO ("Co-Routines" / "Generators")
