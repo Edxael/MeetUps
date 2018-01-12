@@ -6,12 +6,36 @@ npm are loaded from number of packages.
 
 
 ==============================================
-                Other Topics
+         Other Topics For Presentation
 ==============================================
 
-sails.js
-lambda / serverlsess / Micro
-Happi
-Express
-KOA
-CO ("Co-Routines" / "Generators")
+- GraphQL API
+- HTTP
+- HTTP2
+- sails.js   ---->  is build on top of Express.js
+- lambda / serverlsess / Micro
+- Happi
+- Express
+- KOA
+- CO ("Co-Routines" / "Generators")
+
+
+
+
+
+
+************************************************
+Integrating with
+************************************************
+
+- Redis
+- Firebase
+- Headless Chrome
+- Electron
+- Configure WebPack
+- Transpile to JS languages
+- Type System
+
+
+
+javascritp in Ilustrator....
