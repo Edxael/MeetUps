@@ -1,13 +1,8 @@
-Making games
+Making games by: Paul
+---  in Jane.com  ---
+animaljam.com
 
-Paul in Jane.com
-
-
-
-
-
-
-
+Web components
 
 
 
@@ -35,5 +30,7 @@ topics for the class:
 -----------------------
  teach:
 -----------------------
+arrays
+for loops
 
- 
+====================================
