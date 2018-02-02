@@ -1,3 +1,21 @@
 Making games
 
 Paul in Jane.com
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------
+- Recursive Functions
+- Sleep to remember better
+- Promises
+- GraphQL
+- Async Functtions.
