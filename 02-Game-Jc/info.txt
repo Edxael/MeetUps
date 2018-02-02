@@ -19,3 +19,21 @@ Paul in Jane.com
 - Promises
 - GraphQL
 - Async Functtions.
+
+
+====================================
+topics for the class:
+
+
+-----------------------
+ practice:
+-----------------------
+ variables
+ if statements
+
+
+-----------------------
+ teach:
+-----------------------
+
+ 
