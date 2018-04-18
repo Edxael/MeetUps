@@ -1,16 +1,18 @@
 import React from 'react'
 import './style.css'
-let URL = 'https://swapi.co/api/P'
+let URL = 'https://swapi.co/api/people/'
 
 export default class extends React.Component{
+    state = { info: '' }
     render(){
 
         const exe1 = async () => {
             console.log("Executing Promise: ")
 
-            const myans = await fetch(URL).then((resp) => { return resp.json() })
-                                          .then((resp) => { return resp })
-                                          .catch((err) => { console.log("Not in this UNIVERSE...") }) 
+            const myans = await fetch( `${URL}${this.state.info}` )
+                                    .then((resp) => { return resp.json() })
+                                    .then((resp) => { return resp })
+                                    .catch((err) => { console.log("Not in this UNIVERSE...") }) 
 
             await console.log("My Answer: ", myans)
         }
@@ -20,7 +22,10 @@ export default class extends React.Component{
                 <h1>Code for Meet-Up.</h1>
                 <hr/>
 
-                <button onClick={ exe1 } >Use Promise</button>
+                <input type="text" value={this.state.info} onChange={ (e)  => { this.setState({ info: e.target.value }) }}  />
+                <br/><br/>
+
+                <button onClick={ exe1 } >Get Data</button>
             </div>
         )
     }
